@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Project Introduction</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="script.js"></script>
+    </head>
+    <body>
+        
+        <nav>
+            <ul>
+                <li><a href="unitedstates.html">United States Data</a></li>
+                <li><a href="wisconsin.html">Wisconsin Data</a></li>
+                <li><a href="arkansas.html">Arkansas Data</a></li>
+                <li><a href="delaware.html">Delaware Data</a></li>
+                <li><a href="reference.html">References</a></li>
+            </ul>
+        </nav>
+        <hr>
+        <h1 class="title">Project Introduction</h1>
+        <hr>
+        
+        <p>Hello, my name is Christopher Lambert and this is a website I created for
+            my senior project at Wilmington University. </p>
+        <p>My goal in this project is to look at education levels in the United States from the years 
+        2000 – 2024, with a deeper look at the data in Wisconsin, Arkansas, and Delaware. Listed below are the reasons I picked these states.</p>
+        <ul>
+        <li>Wisconsin is where I received the majority of my education, from kindergarten through a semester or two of college.</li>
+        <li>Arkansas is where I currently reside and work in. </li>
+        <li>Delaware is where Wilmington University is located.</li></ul>
+        
+        <p>It is my hope that I can take the data that I find, and put it together in visualization graphics, and see if there are any trends throughout 
+            the years with various events or programs, such as President George W. Bush's No Child Left Behind act and the COVID pandemic. </p>
+        
+        <p>My final hope is that this project will showcase my data analytic skills and I can utilize this website in future job interviews. 
+        </p>
+        
+<hr>
+    <footer>
+        <p> &copy;2024 Christopher Lambert CSC489</p></footer>
+    </body>
+</html>
